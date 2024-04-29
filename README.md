@@ -1,25 +1,21 @@
+<p align="center"> 
+  Visitor Count: <br> <b><i>(since 05/2024)<b><i> <br><br>
+  <img src="https://profile-counter.glitch.me/ri8x/count.svg" style="width: 180px;"/>
+</p>
 
-###  Hi there 👋 
-
-## ✨ 📈 📊 🔬 ✨
-| 🙋‍♂️ | 📊 |
-|--|--|
-|  | <p><a href="https://github.com/ri8x"><img src="https://ri8x-stats.vercel.app/api?username=Ri8x&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true" alt="Ri8x's github stats"/></a></p><p><a href="https://github.com/ri8x"><img src="https://ri8x-stats.vercel.app/api/top-langs/?username=Ri8x&layout=compact&theme=blue-green" alt="Ri8x's top used languages"/></a><br><br/></p> |
-
+<picture><img align="left" src="https://github.com/ri8x/ri8x/blob/main/Logo.gif?raw=true" width=20% height=20%></picture>
 
 
+# Mansoor's Github Profile 
 
+#### Fullstack Software Engineer
 
+---
+<a href="https://skillicons.dev">
+ <picture><img style="margin: 10px"src="https://skillicons.dev/icons?i=vscode,linux,js,github,gitlab,docker,javascript,typescript,react,threejs,py,css,html,githubactions,k8s,aws&perline=8"alt="My Skills"/></picture> 
+</a>
+<br/>
+<br/>
+<picture><img src="https://github-readme-stats.vercel.app/api?username=ri8x&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture><picture><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri8x&langs_count=8&layout=compact&theme=radical&hide_border=true" width=40.5% height=40.5%/></picture>
 
-
-<!--
- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture><img src="https://github-readme-activity-graph.vercel.app/graph?username=ri8x&theme=redical&hide_border=true" style="width: 890px;"/></picture>
