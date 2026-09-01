@@ -1,5 +1,5 @@
 <p align="center"> 
-  Visitor Count: <br> <b><i>(since 05/2024)</i></b> <br><br>
+  Visitor Count: <br> <b><i>(since 09/2026)</i></b> <br><br>
   <img src="https://komarev.com/ghpvc/?username=ri8x&style=flat&color=blueviolet" style="width: 180px;"/>
 </p>
 
