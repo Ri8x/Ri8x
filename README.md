@@ -1,10 +1,9 @@
 <p align="center"> 
   Visitor Count: <br> <b><i>(since 05/2024)</i></b> <br><br>
-  <img src="https://profile-counter.glitch.me/ri8x/count.svg" style="width: 180px;"/>
+  <img src="https://komarev.com/ghpvc/?username=ri8x&style=flat&color=blueviolet" style="width: 180px;"/>
 </p>
 
-<picture><img align="left" src="https://github.com/ri8x/ri8x/blob/master/Logo.gif?raw=true" width=20% height=20%></picture>
-
+<picture><img align="left" src="https://raw.githubusercontent.com/ri8x/ri8x/master/Logo.gif" width=20% height=20%></picture>
 
 # Mansoor's Github Profile 
 
